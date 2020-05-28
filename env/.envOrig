@@ -1,0 +1,3 @@
+CON_MQ=amqp://root:dev1234@localhost:5500
+PUB_MQ=amqp://root:dev1234@localhost:5500
+LIST=dev.txt
